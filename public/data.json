@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "On The Road",
+    "author": "Jack Kerouac",
+    "price": 10,
+    "img": "https://imgs.search.brave.com/PG6VRGVRdd1tat50p4zbkf4eZejQVmLSXnyikv6sZfQ/rs:fit:346:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5z/eGVESlRoNnNFWDZk/VXhhcjJnTkNnSGFL/SiZwaWQ9QXBp",
+    "quanty": 1
+  },
+  {
+    "id": 2,
+    "name": "The Subterraneans",
+    "author": "Jack Kerouac",
+    "price": 20,
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/SubterraneansNovel.JPG/220px-SubterraneansNovel.JPG",
+    "quanty": 1
+  },
+
+  {
+    "id": 3,
+    "name": "Indian Journals",
+    "author": "Allen Ginsberg",
+    "price": 27,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsgpIEvr4XowmeLXakZhKZAArZHwYVHHwuLg&s",
+    "quanty": 1
+  },
+  {
+    "id": 4,
+    "name": "Iron Horse",
+    "author": "Allen Ginsberg",
+    "price": 18,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Iron_Horse_Poster.jpg/220px-Iron_Horse_Poster.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 5,
+    "name": "Black Mirror",
+    "author": "Elon Musk",
+    "price": 23,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Iron_Horse_Poster.jpg/220px-Iron_Horse_Poster.jpg",
+    "quanty": 1
+  }
+]
